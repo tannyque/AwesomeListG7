@@ -5,9 +5,11 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## Food
 1. [Paesano Pizza West End](https://goo.gl/maps/LjxT2BPMyFq)
 2. [Falafel 2 go, good cheap Falafel](https://goo.gl/maps/v1Hq49XDpam)
+3. [Smashburger](https://goo.gl/maps/ubPaL2dM2A22)
 
 
 ## Coffee
+1. [Primal Roast](https://goo.gl/maps/JCRV2Bs7inu)
 
 
 ## Pubs
