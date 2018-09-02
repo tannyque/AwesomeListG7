@@ -8,6 +8,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 3. [Jacksons - Nearby](https://goo.gl/maps/C2rFSh9kzj42)
 4. [Bar Bloc - On bathstreet, quite chilled](https://goo.gl/maps/va6xABTGuE72)
 5. [The Ark - Beside Queen Street Railway Station](https://goo.gl/maps/pFwGEu95UiP2)
+6. [Best roll in town](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## Food :pizza: :hamburger: 
@@ -38,6 +39,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 ## JavaScript
 1. [JavaScript MDN docs (mozilla)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+2. [NPM](https://www.npmjs.com/)
 
 ## APIs
 1. [Todd Moddo's list of free public APIs](https://github.com/toddmotto/public-apis)
@@ -50,6 +52,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 
 ## Python :snake:
+1. Learn [Python 3](https://docs.python.org/3/)
 
 
 ## Web Development :art:
@@ -69,7 +72,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 
 ## Employment/Jobs
-
+1. [Credit to Jack Murning](https://github.com/JackRMurning) [Dev jobs in Edinburgh](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
 
 ## Events
 1. [BuildTheBBC, Glasgow, Software Engineering Event](https://www.eventbrite.co.uk/e/buildthebbc-glasgow-software-engineering-event-tickets-49479566716)
