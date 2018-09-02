@@ -2,6 +2,14 @@
 In the spirit of G6's awesome list, G7 have decided to come up with an even more awesome list of stuff! Don't limit your imagination by only adding code related links! Install programs at your own risk :eyes:
 
 
+## Pubs
+1. [Malones Irish Bar - Close and relaxed](https://goo.gl/maps/AANU1mG8NHp)
+2. [The Howlin' Wolf - Beside Malone's, 2 for 1 pizzas, good food](https://goo.gl/maps/FUe38fgUefQ2)
+3. [Jacksons - Nearby](https://goo.gl/maps/C2rFSh9kzj42)
+4. [Bar Bloc - On bathstreet, quite chilled](https://goo.gl/maps/va6xABTGuE72)
+5. [The Ark - Beside Queen Street Railway Station](https://goo.gl/maps/pFwGEu95UiP2)
+
+
 ## Food
 1. [Paesano Pizza West End](https://goo.gl/maps/LjxT2BPMyFq)
 2. [Falafel 2 go, good cheap Falafel](https://goo.gl/maps/v1Hq49XDpam)
@@ -10,11 +18,6 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 ## Coffee
 1. [Primal Roast](https://goo.gl/maps/JCRV2Bs7inu)
-
-
-## Pubs
-1. [Bar Bloc - On bathstreet, quite chilled](https://goo.gl/maps/va6xABTGuE72)
-2. [The Ark - Beside Queen Street Railway Station](https://goo.gl/maps/pFwGEu95UiP2)
 
 
 ## Software
