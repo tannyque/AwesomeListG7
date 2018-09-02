@@ -23,20 +23,20 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 ## Software :computer:
 
-### Text-Editors
+### Text-Editors :pencil2:
 1. [Sublime Text - Is it better than Atom? Find out for yourself](https://www.sublimetext.com/)
 
 ### Wallpaper-changer 
 1. [Snappr - Change your wallpaper with images from Reddit every now and then](https://francesc.xyz/projects/snappr/)
 
-### Drawing
+### Drawing :pencil:
 1. [draw.io - Great for making online diagrams such as flowcharts, class diagrams, object diagrams, UML and more](https://www.draw.io/)
 
 
-## Ruby
+## Ruby :gem:
 1. [Ruby Docs](http://ruby-doc.org/)
 
-## Databases
+## Databases :bar_chart:
 
 
 ## JavaScript
@@ -73,14 +73,14 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 2. [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
-## Employment/Jobs
+## Employment/Jobs :information_desk_person:
 1. [Credit to Jack Murning](https://github.com/JackRMurning) [Dev jobs in Edinburgh](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
 
-## Events
+## Events :hotel:
 1. [BuildTheBBC, Glasgow, Software Engineering Event](https://www.eventbrite.co.uk/e/buildthebbc-glasgow-software-engineering-event-tickets-49479566716)
 
 
-## Other Languages/Scientific Stuff
+## Other Languages/Scientific Stuff :rocket:
 
 
 ## Misc :dog: :cat:
