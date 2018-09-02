@@ -78,5 +78,5 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## Other Languages/Scientific Stuff
 
 
-## Misc
+## Misc :dog: :cat:
 1. [Reddit Eyebleach - A happy and adorable link after a long day, or just to relax!](https://www.reddit.com/r/Eyebleach/)
