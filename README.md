@@ -15,8 +15,9 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 
 ## Software
+
 ### Text-Editors
-1. [Sublime Text](https://www.sublimetext.com/)
+1. [Sublime Text - Is it better than Atom? Find out for yourself](https://www.sublimetext.com/)
 
 
 
