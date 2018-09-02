@@ -32,6 +32,13 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 
 ## JavaScript
+1. [JavaScript MDN docs (mozilla)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## APIs
+1. [Todd Moddo's list of free public APIs](https://github.com/toddmotto/public-apis)
+2. [API List](https://apilist.fun/)
+3. [API directory](https://www.programmableweb.com/apis/directory)
+4. [Any-API](https://any-api.com/)
 
 
 ## Java
@@ -47,6 +54,9 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 4. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 5. [Flexbox Froggy](http://flexboxfroggy.com/)
 6. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
+7. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
+8. [Google fonts](https://fonts.google.com/)
+9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
 
 ## Git Commit Emojis
 1. [Git Commit message Emoji](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
