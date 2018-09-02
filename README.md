@@ -8,13 +8,13 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 3. [Jacksons - Nearby](https://goo.gl/maps/C2rFSh9kzj42)
 4. [Bar Bloc - On bathstreet, quite chilled](https://goo.gl/maps/va6xABTGuE72)
 5. [The Ark - Beside Queen Street Railway Station](https://goo.gl/maps/pFwGEu95UiP2)
-6. [Best roll in town](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## Food :pizza: :hamburger: 
 1. [Paesano Pizza West End](https://goo.gl/maps/LjxT2BPMyFq)
 2. [Falafel 2 go, good cheap Falafel](https://goo.gl/maps/v1Hq49XDpam)
 3. [Smashburger](https://goo.gl/maps/ubPaL2dM2A22)
+4. [Best roll in town](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## Coffee :coffee:
