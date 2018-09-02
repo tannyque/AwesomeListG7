@@ -29,6 +29,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ### Wallpaper-changer 
 1. [Snappr - Change your wallpaper with images from Reddit every now and then](https://francesc.xyz/projects/snappr/)
 
+### Drawing
+1. [draw.io - Great for making online diagrams such as flowcharts, class diagrams, object diagrams, UML and more](https://www.draw.io/)
 
 
 ## Ruby
