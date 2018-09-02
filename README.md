@@ -48,8 +48,13 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 5. [Flexbox Froggy](http://flexboxfroggy.com/)
 6. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 
+## Git Commit Emojis
+1. [Git Commit message Emoji](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
+2. [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 
 ## Employment/Jobs
+
 
 ## Events
 1. [BuildTheBBC, Glasgow, Software Engineering Event](https://www.eventbrite.co.uk/e/buildthebbc-glasgow-software-engineering-event-tickets-49479566716)
