@@ -1,8 +1,8 @@
-# G7's awesome list
+# G7's awesome list :muscle:
 In the spirit of G6's awesome list, G7 have decided to come up with an even more awesome list of stuff! Don't limit your imagination by only adding code related links! Install programs at your own risk :eyes:
 
 
-## Pubs
+## Pubs :beers: :wine_glass:
 1. [Malones Irish Bar - Close and relaxed](https://goo.gl/maps/AANU1mG8NHp)
 2. [The Howlin' Wolf - Beside Malone's, 2 for 1 pizzas, good food](https://goo.gl/maps/FUe38fgUefQ2)
 3. [Jacksons - Nearby](https://goo.gl/maps/C2rFSh9kzj42)
@@ -10,22 +10,22 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 5. [The Ark - Beside Queen Street Railway Station](https://goo.gl/maps/pFwGEu95UiP2)
 
 
-## Food
+## Food :pizza: :hamburger: 
 1. [Paesano Pizza West End](https://goo.gl/maps/LjxT2BPMyFq)
 2. [Falafel 2 go, good cheap Falafel](https://goo.gl/maps/v1Hq49XDpam)
 3. [Smashburger](https://goo.gl/maps/ubPaL2dM2A22)
 
 
-## Coffee
+## Coffee :coffee:
 1. [Primal Roast](https://goo.gl/maps/JCRV2Bs7inu)
 
 
-## Software
+## Software :computer:
 
 ### Text-Editors
 1. [Sublime Text - Is it better than Atom? Find out for yourself](https://www.sublimetext.com/)
 
-### Wallpaper-changer
+### Wallpaper-changer 
 1. [Snappr - Change your wallpaper with images from Reddit every now and then](https://francesc.xyz/projects/snappr/)
 
 
@@ -49,10 +49,10 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## Java
 
 
-## Python
+## Python :snake:
 
 
-## Web Development
+## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
 2. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 3. [Learn CSS Layout](http://learnlayout.com/)
@@ -63,7 +63,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 8. [Google fonts](https://fonts.google.com/)
 9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
 
-## Git Commit Emojis
+## Git Commit Emojis :ok_hand:
 1. [Git Commit message Emoji](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
 2. [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
