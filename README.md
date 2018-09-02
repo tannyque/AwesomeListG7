@@ -46,6 +46,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 3. [Learn CSS Layout](http://learnlayout.com/)
 4. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 5. [Flexbox Froggy](http://flexboxfroggy.com/)
+6. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 
 
 ## Employment/Jobs
