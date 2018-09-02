@@ -19,6 +19,9 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ### Text-Editors
 1. [Sublime Text - Is it better than Atom? Find out for yourself](https://www.sublimetext.com/)
 
+### Wallpaper-changer
+1. [Change your wallpaper with images from Reddit every now and then](https://francesc.xyz/projects/snappr/)
+
 
 
 ## Ruby
