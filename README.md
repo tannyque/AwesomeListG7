@@ -91,20 +91,20 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 
 #### CSS
-1. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-2. [Learn CSS Layout](http://learnlayout.com/)
-3. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
-4. [Flexbox Froggy](http://flexboxfroggy.com/)
-5. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
-6. [Google fonts](https://fonts.google.com/)
-7. [uiGradient Backgrounds](https://uigradients.com/)
+2. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+3. [Learn CSS Layout](http://learnlayout.com/)
+4. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
+5. [Flexbox Froggy](http://flexboxfroggy.com/)
+6. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
+7. [Google fonts](https://fonts.google.com/)
+8. [uiGradient Backgrounds](https://uigradients.com/)
 
 
 #### HTML
-8. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
-9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
-10. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
-11. [Learn HTML](https://www.learn-html.org/) 
+9. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
+10. [W3 Free responsive mobile web templates](https://w3layouts.com/)
+11. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
+12. [Learn HTML](https://www.learn-html.org/) 
 
 
 ## Git Commit Emojis :ok_hand:
