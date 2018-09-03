@@ -52,8 +52,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 5. [Number's API](http://numbersapi.com/)
 
 ## CSS / HTML
-https://learn.shayhowe.com/html-css/
-http://learnlayout.com/
+[Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+[Learn CSS Layout](http://learnlayout.com/)
 
 ## Java
 
