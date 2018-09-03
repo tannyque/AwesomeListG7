@@ -51,6 +51,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 3. [API directory](https://www.programmableweb.com/apis/directory)
 4. [Any-API](https://any-api.com/)
 5. [Number's API](http://numbersapi.com/)
+6. [Deck of Cards API](http://deckofcardsapi.com/)
 
 ## CSS / HTML
 [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
@@ -62,8 +63,9 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## Python :snake:
 1. Learn [Python 3](https://docs.python.org/3/)
 
-## Coding Apps
+## Coding Apps/Tutorials
 1. [SoloLearn](https://www.sololearn.com/)
+2. [Codebar Tutorials](http://tutorials.codebar.io/)
 
 ## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
