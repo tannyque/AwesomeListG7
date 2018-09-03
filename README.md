@@ -52,6 +52,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 3. [Learn JS](https://www.learn-js.org/)
 4. [JavaScript for Cats](http://jsforcats.com/) 🐈
 
+
 ## APIs
 1. [Todd Moddo's list of free public APIs](https://github.com/toddmotto/public-apis)
 Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://deckofcardsapi.com/)
@@ -59,11 +60,16 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 3. [API directory](https://www.programmableweb.com/apis/directory)
 4. [Any-API](https://any-api.com/)
 
+### API development
+1. [Postman - API builder. Is it better than insomnia? Find out for yourself](https://www.getpostman.com/)
+
+
 ## Java
 
 
 ## Python :snake:
 1. Learn [Python 3](https://docs.python.org/3/)
+
 
 ## Coding Apps/Tutorials 
 1. [SoloLearn](https://www.sololearn.com/)
@@ -75,6 +81,8 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 ## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
+
+
 #### CSS
 2. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 3. [Learn CSS Layout](http://learnlayout.com/)
@@ -82,11 +90,14 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 5. [Flexbox Froggy](http://flexboxfroggy.com/)
 6. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
 7. [Google fonts](https://fonts.google.com/)
+
+
 #### HTML
 8. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
 10. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
 11. [Learn HTML](https://www.learn-html.org/) 
+
 
 ## Git Commit Emojis :ok_hand:
 1. [Git Commit message Emoji](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
