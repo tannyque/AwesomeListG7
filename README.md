@@ -112,7 +112,7 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 
 ## Employment/Jobs :information_desk_person:
-1. [Credit to Jack Murning](https://github.com/JackRMurning) [Dev jobs in Edinburgh](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
+1. [Credit to Jack Murning](https://github.com/JackRMurning) - [Dev jobs in Edinburgh](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
 
 ## Events :hotel:
 1. [BuildTheBBC, Glasgow, Software Engineering Event](https://www.eventbrite.co.uk/e/buildthebbc-glasgow-software-engineering-event-tickets-49479566716)
