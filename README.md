@@ -48,7 +48,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 2. [API List](https://apilist.fun/)
 3. [API directory](https://www.programmableweb.com/apis/directory)
 4. [Any-API](https://any-api.com/)
-5. [Number's API] (http://numbersapi.com/)
+5. [Number's API](http://numbersapi.com/)
 
 
 ## Java
