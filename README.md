@@ -35,6 +35,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 ## Ruby :gem:
 1. [Ruby Docs](http://ruby-doc.org/)
+2. [Learn Ruby](https://www.learnrubyonline.org/)
 
 ## Databases :bar_chart:
 
@@ -50,6 +51,9 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 4. [Any-API](https://any-api.com/)
 5. [Number's API](http://numbersapi.com/)
 
+## CSS / HTML
+https://learn.shayhowe.com/html-css/
+http://learnlayout.com/
 
 ## Java
 
@@ -57,6 +61,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## Python :snake:
 1. Learn [Python 3](https://docs.python.org/3/)
 
+## Coding Apps
+1. [SoloLearn](https://www.sololearn.com/)
 
 ## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
