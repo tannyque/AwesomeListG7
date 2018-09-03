@@ -43,6 +43,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 1. [Ruby Docs](http://ruby-doc.org/)
 2. [Learn Ruby](https://www.learnrubyonline.org/)
 
+
 ## Databases :bar_chart:
 
 
@@ -119,18 +120,24 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 ## Misc :dog: :cat:
 1. [Reddit Eyebleach - A happy and adorable link after a long day, or just to relax!](https://www.reddit.com/r/Eyebleach/)
-#### Random Things
+
+### Random Things
 1. [Random Things Generator](https://www.getrandomthings.com/)
-#### Jokes
+
+### Jokes
 1. [Dad Jokes](https://icanhazdadjoke.com/)
-#### Animals
-##### Cats :cat:
+
+### Animals
+
+#### Cats :cat:
 1. [Random Kitten Generator](http://www.randomkittengenerator.com/)
 2. [Random Cat](http://random.cat/view/1586)
 3. [The Cat API](http://thecatapi.com/)
+
 ##### Dogs :dog:
 1. [Random Doggie Generator](https://www.randomdoggiegenerator.com/)
 2. [Dog API](https://dog.ceo/dog-api/)
+
 ##### Fox 🦊
 1. [Random Fox Generator](https://randomfox.ca/)
 
