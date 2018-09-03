@@ -49,6 +49,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## JavaScript
 1. [JavaScript MDN docs (mozilla)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 2. [NPM](https://www.npmjs.com/)
+3. [Learn JS](https://www.learn-js.org/)
+4. [JavaScript for Cats](http://jsforcats.com/) 🐈
 
 ## APIs
 1. [Todd Moddo's list of free public APIs](https://github.com/toddmotto/public-apis)
@@ -82,10 +84,12 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 8. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
 10. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
+11. [Learn HTML](https://www.learn-html.org/) 
 
 ## Git Commit Emojis :ok_hand:
 1. [Git Commit message Emoji](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
 2. [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+3. [Emoji Copy](https://www.emojicopy.com/)👈👍
 
 
 ## Employment/Jobs :information_desk_person:
