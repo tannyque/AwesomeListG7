@@ -20,6 +20,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## Coffee :coffee:
 1. [Primal Roast](https://goo.gl/maps/JCRV2Bs7inu)
 2. [Tim Hortons - Canadian Coffee - Double Double!  Glasgow was the first UK location!](http://timhortons.co.uk/)
+3. [Artisan Roast] (https://goo.gl/maps/WJV2di4NmjE2)
+4. [Offshore - right next to Artisan Roast]
 
 
 ## Software :computer:
