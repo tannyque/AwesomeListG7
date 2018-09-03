@@ -54,8 +54,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 6. [Deck of Cards API](http://deckofcardsapi.com/)
 
 ## CSS / HTML
-[Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-[Learn CSS Layout](http://learnlayout.com/)
+1.  [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+2.  [Learn CSS Layout](http://learnlayout.com/)
 
 ## Java
 
