@@ -71,12 +71,12 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 ## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
-### CSS
+#### CSS
 2. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 3. [Learn CSS Layout](http://learnlayout.com/)
 4. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 5. [Flexbox Froggy](http://flexboxfroggy.com/)
-### HTML
+#### HTML
 6. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 7. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
 8. [Google fonts](https://fonts.google.com/)
