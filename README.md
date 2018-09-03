@@ -47,11 +47,11 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 ## APIs
 1. [Todd Moddo's list of free public APIs](https://github.com/toddmotto/public-apis)
+Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://deckofcardsapi.com/)
 2. [API List](https://apilist.fun/)
 3. [API directory](https://www.programmableweb.com/apis/directory)
 4. [Any-API](https://any-api.com/)
-5. [Number's API](http://numbersapi.com/)
-6. [Deck of Cards API](http://deckofcardsapi.com/)
+
 
 ## CSS
 
