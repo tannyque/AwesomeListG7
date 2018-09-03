@@ -124,13 +124,13 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 #### Jokes
 1. [Dad Jokes](https://icanhazdadjoke.com/)
 #### Animals
-##### Cats
+##### Cats :cat:
 1. [Random Kitten Generator](http://www.randomkittengenerator.com/)
 2. [Random Cat](http://random.cat/view/1586)
 3. [The Cat API](http://thecatapi.com/)
-##### Dogs
+##### Dogs :dog:
 1. [Random Doggie Generator](https://www.randomdoggiegenerator.com/)
 2. [Dog API](https://dog.ceo/dog-api/)
-##### Fox
+##### Fox :fox:
 1. [Random Fox Generator](https://randomfox.ca/)
 
