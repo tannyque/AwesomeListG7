@@ -90,16 +90,17 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
 
 
-#### CSS
+### CSS
 2. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 3. [Learn CSS Layout](http://learnlayout.com/)
 4. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 5. [Flexbox Froggy](http://flexboxfroggy.com/)
 6. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
 7. [Google fonts](https://fonts.google.com/)
+8. [uiGradient Backgrounds](https://uigradients.com/)
 
 
-#### HTML
+### HTML
 8. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
 10. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
@@ -133,15 +134,15 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 ### Animals
 
-#### Cats :cat:
+### Cats :cat:
 1. [Random Kitten Generator](http://www.randomkittengenerator.com/)
 2. [Random Cat](http://random.cat/view/1586)
 3. [The Cat API](http://thecatapi.com/)
 
-##### Dogs :dog:
+### Dogs :dog:
 1. [Random Doggie Generator](https://www.randomdoggiegenerator.com/)
 2. [Dog API](https://dog.ceo/dog-api/)
 
-##### Fox 🦊
+### Fox 🦊
 1. [Random Fox Generator](https://randomfox.ca/)
 
