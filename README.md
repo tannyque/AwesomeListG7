@@ -129,5 +129,6 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 ##### Dogs
 1. [Random Doggie Generator](https://www.randomdoggiegenerator.com/)
 2. [Dog API](https://dog.ceo/dog-api/)
-
+##### Fox
+1. [Random Fox Generator](https://randomfox.ca/)
 
