@@ -119,6 +119,8 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 ## Misc :dog: :cat:
 1. [Reddit Eyebleach - A happy and adorable link after a long day, or just to relax!](https://www.reddit.com/r/Eyebleach/)
+#### Random Things
+1. [Random Things Generator](https://www.getrandomthings.com/)
 #### Jokes
 1. [Dad Jokes](https://icanhazdadjoke.com/)
 #### Animals
