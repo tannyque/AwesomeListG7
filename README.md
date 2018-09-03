@@ -65,7 +65,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 ## Python :snake:
 1. Learn [Python 3](https://docs.python.org/3/)
 
-## Coding Apps/Tutorials
+## Coding Apps/Tutorials 
 1. [SoloLearn](https://www.sololearn.com/)
 2. [Codebar Tutorials](http://tutorials.codebar.io/)
 
@@ -79,6 +79,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 7. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
 8. [Google fonts](https://fonts.google.com/)
 9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
+10. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
 
 ## Git Commit Emojis :ok_hand:
 1. [Git Commit message Emoji](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
