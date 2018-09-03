@@ -119,14 +119,14 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 ## Misc :dog: :cat:
 1. [Reddit Eyebleach - A happy and adorable link after a long day, or just to relax!](https://www.reddit.com/r/Eyebleach/)
-### Jokes
+#### Jokes
 1. [Dad Jokes](https://icanhazdadjoke.com/)
-### Animals
-#### Cats
+#### Animals
+##### Cats
 1. [Random Kitten Generator](http://www.randomkittengenerator.com/)
 2. [Random Cat](http://random.cat/view/1586)
 3. [The Cat API](http://thecatapi.com/)
-#### Dogs
+##### Dogs
 1. [Random Doggie Generator](https://www.randomdoggiegenerator.com/)
 
 
