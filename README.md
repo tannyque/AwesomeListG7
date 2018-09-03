@@ -68,7 +68,8 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 ## Coding Apps/Tutorials 
 1. [SoloLearn](https://www.sololearn.com/)
 2. [Codebar Tutorials](http://tutorials.codebar.io/)
-3. [Mimo Learn to Code on the Go](https://getmimo.com/)(For mobiles)
+3. [Mimo Learn to Code on the Go](https://getmimo.com/) (For mobiles)
+4. [Lynda.com](https://www.lynda.com/)
 
 ## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
