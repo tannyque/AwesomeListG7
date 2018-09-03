@@ -27,16 +27,16 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 ## Software :computer:
 
-### Text-Editors :pencil2:
+#### Text-Editors :pencil2:
 1. [Sublime Text - Is it better than Atom? Find out for yourself](https://www.sublimetext.com/)
 
-### Wallpaper-changer 
+#### Wallpaper-changer 
 1. [Snappr - Change your wallpaper with images from Reddit every now and then](https://francesc.xyz/projects/snappr/)
 
-### Drawing :pencil:
+#### Drawing :pencil:
 1. [draw.io - Great for making online diagrams such as flowcharts, class diagrams, object diagrams, UML and more](https://www.draw.io/)
 
-### Atom Packages
+#### Atom Packages
 1. [Bracket Colours - to colour match brackets](https://atom.io/packages/nms-color-bracket)
 2. [Rainbow Tabs - colour codes your atom tabs based on what filetype](https://atom.io/packages/rainbow-tabs)
 3. [Terminal Package - puts terminal at the bottom of your atom screens](https://atom.io/packages/platformio-ide-terminal)
@@ -66,7 +66,7 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 4. [Any-API](https://any-api.com/)
 5. [Hangman API](http://hangman-api.herokuapp.com/api)
 
-### API development
+#### API development
 1. [Postman - API builder. Is it better than insomnia? Find out for yourself](https://www.getpostman.com/)
 
 
@@ -90,17 +90,17 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
 
 
-### CSS
-2. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-3. [Learn CSS Layout](http://learnlayout.com/)
-4. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
-5. [Flexbox Froggy](http://flexboxfroggy.com/)
-6. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
-7. [Google fonts](https://fonts.google.com/)
-8. [uiGradient Backgrounds](https://uigradients.com/)
+#### CSS
+1. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+2. [Learn CSS Layout](http://learnlayout.com/)
+3. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
+4. [Flexbox Froggy](http://flexboxfroggy.com/)
+5. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
+6. [Google fonts](https://fonts.google.com/)
+7. [uiGradient Backgrounds](https://uigradients.com/)
 
 
-### HTML
+#### HTML
 8. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
 10. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
@@ -126,23 +126,23 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 ## Misc :dog: :cat:
 1. [Reddit Eyebleach - A happy and adorable link after a long day, or just to relax!](https://www.reddit.com/r/Eyebleach/)
 
-### Random Things
+#### Random Things
 1. [Random Things Generator](https://www.getrandomthings.com/)
 
-### Jokes
+#### Jokes
 1. [Dad Jokes](https://icanhazdadjoke.com/)
 
-### Animals
+## Animals
 
-### Cats :cat:
+#### Cats :cat:
 1. [Random Kitten Generator](http://www.randomkittengenerator.com/)
 2. [Random Cat](http://random.cat/view/1586)
 3. [The Cat API](http://thecatapi.com/)
 
-### Dogs :dog:
+#### Dogs :dog:
 1. [Random Doggie Generator](https://www.randomdoggiegenerator.com/)
 2. [Dog API](https://dog.ceo/dog-api/)
 
-### Fox 🦊
+#### Fox 🦊
 1. [Random Fox Generator](https://randomfox.ca/)
 
