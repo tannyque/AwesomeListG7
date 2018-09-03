@@ -76,9 +76,9 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 3. [Learn CSS Layout](http://learnlayout.com/)
 4. [Zero six three - Vertical Alignment - CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 5. [Flexbox Froggy](http://flexboxfroggy.com/)
+6. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
 #### HTML
-6. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
-7. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
+7. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 8. [Google fonts](https://fonts.google.com/)
 9. [W3 Free responsive mobile web templates](https://w3layouts.com/)
 10. [PostgreSQL](https://www.postgresql.org/docs/11/static/index.html)
