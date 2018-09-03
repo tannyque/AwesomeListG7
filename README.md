@@ -128,5 +128,6 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 3. [The Cat API](http://thecatapi.com/)
 ##### Dogs
 1. [Random Doggie Generator](https://www.randomdoggiegenerator.com/)
+2. [Dog API](https://dog.ceo/dog-api/)
 
 
