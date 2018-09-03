@@ -78,6 +78,7 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 4. [Lynda.com](https://www.lynda.com/)
 5. [Odin Project](https://www.theodinproject.com/)
 6. [MDN Learn Web Development Pathways](https://developer.mozilla.org/en-US/docs/Learn)
+7. [Egghead Learn to Code](https://egghead.io/browse/frameworks)
 
 ## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
