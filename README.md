@@ -47,6 +47,7 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 
 
 ## Databases :bar_chart:
+1. [MongoDB Docs](https://docs.mongodb.com/manual/)
 
 
 ## JavaScript
