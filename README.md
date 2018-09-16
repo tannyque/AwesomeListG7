@@ -2,6 +2,7 @@
 In the spirit of G6's awesome list, G7 have decided to come up with an even more awesome list of stuff! Don't limit your imagination by only adding code related links! Install programs at your own risk :eyes:
 
 
+
 ## Pubs :beers: :wine_glass:
 1. [Malones Irish Bar - Close and relaxed](https://goo.gl/maps/AANU1mG8NHp)
 2. [The Howlin' Wolf - Beside Malone's, 2 for 1 pizzas, good food](https://goo.gl/maps/FUe38fgUefQ2)
@@ -41,6 +42,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 2. [Rainbow Tabs - colour codes your atom tabs based on what filetype](https://atom.io/packages/rainbow-tabs)
 3. [Terminal Package - puts terminal at the bottom of your atom screens](https://atom.io/packages/platformio-ide-terminal)
 4. [file-icons. - creates icons per ruby/js/html/etc file](https://atom.io/packages/file-icons)
+5. [Beautify - ](https://atom.io/packages/atom-beautify) :lipstick:
+
 
 ## Ruby :gem:
 1. [Ruby Docs](http://ruby-doc.org/)
@@ -86,9 +89,9 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 6. [MDN Learn Web Development Pathways](https://developer.mozilla.org/en-US/docs/Learn)
 7. [Egghead Learn to Code](https://egghead.io/browse/frameworks)
 
+
 ## Web Development :art:
 1. [Noah Buscher Github Inspire link - Collection of web design & dev links](https://github.com/noahbuscher/inspire)
-
 
 #### CSS
 2. [Shay Howe - Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
@@ -98,7 +101,6 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 6. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
 7. [Google fonts](https://fonts.google.com/)
 8. [uiGradient Backgrounds](https://uigradients.com/)
-
 
 #### HTML
 9. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
@@ -113,8 +115,9 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 3. [Emoji Copy](https://www.emojicopy.com/)👈👍
 
 
-## Employment/Jobs :information_desk_person:
+## Career/Employment/Jobs :information_desk_person:
 1. [Credit to Jack Murning](https://github.com/JackRMurning) - [Dev jobs in Edinburgh](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
+
 
 ## Events :hotel:
 1. [BuildTheBBC, Glasgow, Software Engineering Event](https://www.eventbrite.co.uk/e/buildthebbc-glasgow-software-engineering-event-tickets-49479566716)
@@ -146,4 +149,3 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 #### Fox 🦊
 1. [Random Fox Generator](https://randomfox.ca/)
-
