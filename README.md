@@ -37,13 +37,12 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 #### Drawing :pencil:
 1. [draw.io - Great for making online diagrams such as flowcharts, class diagrams, object diagrams, UML and more](https://www.draw.io/)
 
-#### Atom Packages
+#### Atom Packages :lipstick:
 1. [Bracket Colours - to colour match brackets](https://atom.io/packages/nms-color-bracket)
 2. [Rainbow Tabs - colour codes your atom tabs based on what filetype](https://atom.io/packages/rainbow-tabs)
 3. [Terminal Package - puts terminal at the bottom of your atom screens](https://atom.io/packages/platformio-ide-terminal)
 4. [file-icons. - creates icons per ruby/js/html/etc file](https://atom.io/packages/file-icons)
-5. [Beautify - ](https://atom.io/packages/atom-beautify) :lipstick:
-
+5. [Beautify - Tidies up coding](https://atom.io/packages/atom-beautify) :bath:
 
 ## Ruby :gem:
 1. [Ruby Docs](http://ruby-doc.org/)
