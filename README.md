@@ -9,6 +9,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 3. [Jacksons - Nearby](https://goo.gl/maps/C2rFSh9kzj42)
 4. [Bar Bloc - On bathstreet, quite chilled](https://goo.gl/maps/va6xABTGuE72)
 5. [The Ark - Beside Queen Street Railway Station](https://goo.gl/maps/pFwGEu95UiP2)
+6. [Saint Judes](https://goo.gl/maps/RxBoTXbk4TD2)
+7. [Lebowskis - Finnieston](https://goo.gl/maps/LbVnXsVnpZ92)
 
 
 ## Food :pizza: :hamburger: 
@@ -120,6 +122,7 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 ## Events :hotel:
 1. [BuildTheBBC, Glasgow, Software Engineering Event](https://www.eventbrite.co.uk/e/buildthebbc-glasgow-software-engineering-event-tickets-49479566716)
+2. [JPMorgan Developer Networking Evening - 11th October 2018](https://www.eventbrite.co.uk/e/jpmorgan-developer-networking-evening-11th-october-2018-tickets-50163461263?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent)
 
 
 ## Other Languages/Scientific Stuff :rocket:
