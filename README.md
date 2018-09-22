@@ -75,6 +75,10 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 
 ## Java
+1. [Learn Java on Codecademy](https://www.codecademy.com/learn/learn-java)
+2. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+3. [Useful Spark debugging tools](https://github.com/perwendel/spark-debug-tools)
+4. [Spark](http://sparkjava.com/)
 
 
 ## Python :snake:
