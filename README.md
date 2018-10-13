@@ -127,8 +127,8 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 
 
 ## Events :hotel:
-1. [BuildTheBBC, Glasgow, Software Engineering Event](https://www.eventbrite.co.uk/e/buildthebbc-glasgow-software-engineering-event-tickets-49479566716)
-2. [JPMorgan Developer Networking Evening - 11th October 2018](https://www.eventbrite.co.uk/e/jpmorgan-developer-networking-evening-11th-october-2018-tickets-50163461263?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent)
+1. [Glasgow JS - November Edition](https://www.meetup.com/Glasgow-JavaScript/events/255335721/)
+2. [Skyscanner Glasgow](http://meetu.ps/e/FWWmS/H5WR0/f)
 
 
 ## Other Languages/Scientific Stuff :rocket:
