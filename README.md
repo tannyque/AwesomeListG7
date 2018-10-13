@@ -18,7 +18,8 @@ In the spirit of G6's awesome list, G7 have decided to come up with an even more
 2. [Falafel 2 go, good cheap Falafel](https://goo.gl/maps/v1Hq49XDpam)
 3. [Smashburger](https://goo.gl/maps/ubPaL2dM2A22)
 4. [Best roll in town](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-5. [Piece - best sandwiches(pieces) in Glasgow](https://goo.gl/maps/cG6WY2tbFa82)
+5. [Best gnome in town](https://www.youtube.com/watch?v=MkTsEXF5q-w&feature=youtu.be&t=6)
+6. [Piece - best sandwiches(pieces) in Glasgow](https://goo.gl/maps/cG6WY2tbFa82)
 
 
 ## Coffee :coffee:
