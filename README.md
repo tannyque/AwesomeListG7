@@ -108,6 +108,7 @@ Includes: [Number's API](http://numbersapi.com/), [Deck of Cards API](http://dec
 6. [neil orange peel css colours (where darkgoldenrod was found)](http://colours.neilorangepeel.com/)
 7. [Google fonts](https://fonts.google.com/)
 8. [uiGradient Backgrounds](https://uigradients.com/)
+9. [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 
 #### HTML
 9. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
